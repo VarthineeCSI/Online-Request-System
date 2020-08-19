@@ -1,0 +1,5 @@
+{
+    "AppName": "Online Request System",
+    "description": "Way to parse Json",
+    "UrlAPI" : "http://192.168.228.68:8080/api/"
+}
